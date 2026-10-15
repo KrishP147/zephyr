@@ -8,3 +8,7 @@ CLAUDE.local.md
 .DS_Store
 .vite/
 *.tsbuildinfo
+
+# per-machine Claude Code settings (local paths, session ids)
+.claude/settings.json
+.claude/settings.local.json
